@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/_ansah_anim" target="blank"><img src="https://img.shields.io/twitter/follow/_ansah_anim?logo=twitter&style=for-the-badge" alt="_ansah_anim" /></a> </p>
 
-- 🌱 I’m currently learning **software engineering at Alx-Africa**
+- 🌱 I’m currently a **software engineering student at Ghana Communication Technology University**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **open source projects and internship opportunities**
 
-- ⚡ Fun fact **I'm always ready to learn, funny too.**
+- ⚡ Fun fact **I'm always ready to learn, and funny too.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
